@@ -21,7 +21,7 @@ variables:
 - template: COVID19Articles-variables-template.yml
 - group: devopsforai-aml-vg
 
-pool:odluser859082-project-agent-pool
+pool: odluser859082-project-agent-pool
 
 stages:
 - stage: 'Model_CI'
